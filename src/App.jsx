@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Aramide Adebesin",
   title: "Machine Learning Engineer",
-  email: "adebesinaramide@gmail.com",
+  email: "adebesinaramide@.com",
   gitHub: "Adebesin-Aramide",
   instagram: "",
   linkedIn: "aramide-adebesin",
