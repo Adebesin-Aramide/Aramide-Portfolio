@@ -31,15 +31,16 @@ const imageAltText = "Data analytics on a paper";
  */
 const projectList = [
   {
-    title: "Open Science Chatbot",
-    description: "This a chatbot that helps researchers find open science tools and resources.",
-    url: "https://github.com/Adebesin-Aramide/Open-Science-Chatbot",
+    title: "Foodie Lens",
+    description:
+      "Foodie Lens is a machine learning-based application designed to identify various traditional Yoruba dishes from images and provide the corresponding recipes and cooking instructions.",
+    url: "https://github.com/Adebesin-Aramide/Foodie_lens",
   },
   {
-    title: "Heart Disease Prediction",
+    title: "HarmonyHaven Chatbot",
     description:
-      "This is a machine learning model that predicts the presence of heart disease in a patient.",
-    url: "https://github.com/Adebesin-Aramide/Heart_Disease_Prediction",
+      "Imagine a tireless AI, designed to provide guidance, encouragement and coping mechanisms on Mental Health Issues. That is what the HarmonyHaven Chatbot is!",
+    url: "https://github.com/Adebesin-Aramide/HarmonyHaven_chatbot",
   },
   {
     title: "Global Household Electrification",
@@ -48,10 +49,10 @@ const projectList = [
     url: "https://github.com/Adebesin-Aramide/Global_Household_Electrification",
   },
   {
-    title: "My Datathon Experience",
+    title: "A Walkthrough of my First Project in the Year 2024",
     description:
-      "This is an article I wrote about my experience at the 2023 DataFest Africa Datathon.",
-    url: "https://medium.com/@adebesinaramide/my-datathon-experience-e4cbe5a3ab2c",
+      "This is an article I wrote about my first project at the beginning of the year 2024.",
+    url: "https://medium.com/@adebesinaramide/first-project-of-the-year-harmonyhaven-chatbot-703106305e00",
   },
 ];
 
